@@ -1,0 +1,4 @@
+5,Python Basics,John Smith,2020,Programming,available,0
+6,Data Structures,Alice Brown,2018,Computer Science,available,2
+7,Network Security,James Lee,2022,Cybersecurity,borrowed,0
+8,Linear Algebra,David Kim,2019,Mathematics,available,0
